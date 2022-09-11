@@ -1,6 +1,6 @@
 ## Hi folks! 👋
 
-My name is Yibo Yan, and I am currently a 4th-year undergrad student at UC Davis.
+My name is Yibo Yan, and I am currently a MSCS student at Yale University. Before that, I graduated from UC Davis in Computer Science too.
 
 ## Repo Stats
 

@@ -1,6 +1,6 @@
 ## Hi folks! 👋
 
-My name is Yibo Yan, and I am currently a MSCS student at Yale University. Before that, I graduated from UC Davis in Computer Science too.
+My name is Yibo Yan, and I am currently a MSCS student at Yale University. Before that, I got my BSc degree in Computer Science from UC Davis.
 
 ## Repo Stats
 

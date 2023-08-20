@@ -1,6 +1,6 @@
 ## Hi folks! 👋
 
-My name is Yibo Yan, and I am currently a MSCS student at Yale University. Before that, I got my BSc degree in Computer Science from UC Davis.
+My name is Yibo Yan, and I am currently a Ph.D. student at USC working on distributed system. Before that, I did my MSCS degree at Yale and got my BSc degree in Computer Science from UC Davis.
 
 ## Repo Stats
 

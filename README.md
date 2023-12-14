@@ -14,6 +14,9 @@ My name is Yibo Yan, and I am currently a Ph.D. student at USC@[NSL lab](https:/
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight&count_private=true)
-
-![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=totoroyyb&layout=compact&exclude_repo=Render-Math-In-UWP-By-KaTex,Render-Equations-In-UWP-By-MathJax,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=totoroyyb&layout=compact&exclude_repo=Render-Math-In-UWP-By-KaTex,Render-Equations-In-UWP-By-MathJax,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totoroyyb&layout=compact&exclude_repo=Render-Math-In-UWP-By-KaTex,Render-Equations-In-UWP-By-MathJax,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight&card_width=320" />
+</a>

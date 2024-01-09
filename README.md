@@ -1,3 +1,6 @@
+
+> Most systems work best if they are kept simple rather than made complicated :octocat:
+
 ## Hi folks! 👋
 
 My name is Yibo Yan, and I am currently a Ph.D. student at USC@[NSL lab](https://nsl.usc.edu/) working on distributed stuff. Before landing here, I snagged my MS in CS at Yale and rocked my BSc in CS at UC Davis.
@@ -11,6 +14,7 @@ My name is Yibo Yan, and I am currently a Ph.D. student at USC@[NSL lab](https:/
 - 🫢 Crafting next-gen warehouse-scale distributed systems and massive data analytic toolchains with my wonderful advisor [Seo Jin Park](https://seojinpark.net/)
 - 👨🏻‍💻 Dipping my toes in the OSS community
 - 🎉 Having fun with some casual projects
+
 
 ---
 

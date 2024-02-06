@@ -18,9 +18,9 @@ My name is Yibo Yan, and I am currently a Ph.D. student at USC@[NSL lab](https:/
 
 ---
 
-<a href="https://github-readme-stats-seven-kappa-78.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight&count_private=true">
-  <img height=200 align="center" src="https://github-readme-stats-seven-kappa-78.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight&count_private=true" />
+<a href="https://github-readme-stats-seven-kappa-78.vercel.app/api?username=totoroyyb&include_orgs=true&show_icons=true&theme=tokyonight&count_private=true">
+  <img height=200 align="center" src="https://github-readme-stats-seven-kappa-78.vercel.app/api?username=totoroyyb&include_orgs=true&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github-readme-stats-seven-kappa-78.vercel.app/api/top-langs/?username=totoroyyb&layout=compact&exclude_repo=ECS50,CPSC529-Labs,github-readme-stats,Nu,usc-nsl.github.io,cpsc558-hws,agora,gitignore,governance-data-collection,dotfiles,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight&hide=javascript,html,css,objective-c,objective-c%2B%2B,jupyter%20notebook,batchfile,cmake,makefile">
-  <img height=200 align="center" src="https://github-readme-stats-seven-kappa-78.vercel.app/api/top-langs/?username=totoroyyb&layout=compact&exclude_repo=ECS50,CPSC529-Labs,github-readme-stats,Nu,usc-nsl.github.io,cpsc558-hws,agora,gitignore,governance-data-collection,dotfiles,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight&card_width=320&hide=javascript,html,css,objective-c,objective-c%2B%2B,jupyter%20notebook,batchfile,cmake,makefile" />
+<a href="https://github-readme-stats-seven-kappa-78.vercel.app/api/top-langs/?username=totoroyyb&include_orgs=true&layout=compact&exclude_repo=ECS50,CPSC529-Labs,github-readme-stats,Nu,usc-nsl.github.io,cpsc558-hws,agora,gitignore,governance-data-collection,dotfiles,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight&hide=javascript,html,css,objective-c,objective-c%2B%2B,jupyter%20notebook,batchfile,cmake,makefile">
+  <img height=200 align="center" src="https://github-readme-stats-seven-kappa-78.vercel.app/api/top-langs/?username=totoroyyb&include_orgs=true&layout=compact&exclude_repo=ECS50,CPSC529-Labs,github-readme-stats,Nu,usc-nsl.github.io,cpsc558-hws,agora,gitignore,governance-data-collection,dotfiles,sta141b-final-proj,go-ios-tutorial,LightDays-Website,CodeEdit&langs_count=8&theme=tokyonight&card_width=320&hide=javascript,html,css,objective-c,objective-c%2B%2B,jupyter%20notebook,batchfile,cmake,makefile" />
 </a>
